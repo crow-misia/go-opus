@@ -1,0 +1,3 @@
+github.com/crow-misia/go-libsoundio v0.0.0-20190822070437-4ea3edd399cc h1:5vU58usyrPcZLFFctNdR44VwrhzEPbLAApeYnB7CEkA=
+github.com/crow-misia/go-libsoundio v0.0.0-20190822070437-4ea3edd399cc/go.mod h1:dfaF0YnbMyOM97rtSymLDSvkC0n/c9xGmlNLlGTwQcs=
+github.com/glycerine/rbuf v0.0.0-20190314090850-75b78581bebe/go.mod h1:BOGkN1CszB3i4g9xn96RH4t5uXnxJjnC5/RWJ1Wx7GM=
