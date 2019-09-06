@@ -1,7 +1,7 @@
 /*
  * Copyright (c) 2019 Zenichi Amano
  *
- * This file is part of libsoundio, which is MIT licensed.
+ * This file is part of go-opus, which is MIT licensed.
  * See http://opensource.org/licenses/MIT
  */
 
